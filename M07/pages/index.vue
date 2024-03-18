@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h3>Inici de chamba</h3>
+        <h3>Inici de chamba 2</h3>
     </div>
 </template>
 
